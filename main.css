@@ -1,4 +1,9 @@
 h1 {
     background-color:blue;
+}
 
+.bar {
+    background-color: orangered;
+    width:1920px;
+    padding:30px;
 }
