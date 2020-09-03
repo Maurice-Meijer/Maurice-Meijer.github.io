@@ -14,5 +14,6 @@
 }
 
 .space {
-    margin: 30px;
+    font-size: 56px;
+    word-spacing: 30px;
 }
