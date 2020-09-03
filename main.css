@@ -15,6 +15,6 @@
 
 .space {
     font-size: 30px;
-    word-spacing: 30px;
-    font-family: 'Syne';
+    border-spacing: 30px;
+    font-family: 'monospace';
 }
