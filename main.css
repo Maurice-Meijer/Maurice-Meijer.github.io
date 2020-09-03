@@ -8,6 +8,8 @@
     ;
 }
 
-.va {
-    vertical-align: top;
+.menu {
+    position: relative;
+    left: 20;
+    bottom: 20px;
 }
