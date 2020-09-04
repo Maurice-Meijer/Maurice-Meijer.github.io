@@ -8,7 +8,7 @@
     background-color: rgb(158, 42, 0);
 }
 
-ul {
+.ul {
     list-style-type: none;
     margin: -10px;
     padding: 0px;
@@ -16,7 +16,7 @@ ul {
     background-color: orangered;
 }
 
-li {
+.li {
     float: left;
     border-right: 1px solid white;
 }
