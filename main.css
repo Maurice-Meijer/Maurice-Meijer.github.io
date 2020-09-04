@@ -39,13 +39,13 @@ li {
     float: left;
 }
 
-li a {
+a {
     display: block;
     color: black;
     text-align: left;
     padding: 5px 10px 5px 5px;
 }
 
-li a:hover {
+a:hover {
     background-color: FF5000;
 }
