@@ -21,5 +21,6 @@
 
 .white {
     background-color: whitesmoke;
+    width: 100px;
     padding: 10px;
 }
