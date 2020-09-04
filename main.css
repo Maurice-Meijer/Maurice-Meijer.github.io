@@ -49,7 +49,7 @@ a:hover {
 }
 
 .pic {
-    position: relative;
+    position: absolute;
     left: 900px;
-    top: -200px;
+    top: 200px;
 }
