@@ -25,6 +25,7 @@ a {
     display: block;
     color: black;
     text-align: left;
+    text-decoration: underline;
     padding: 20px;
 }
 
