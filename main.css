@@ -57,7 +57,12 @@ a:hover {
     border-color: rgb(0, 0, 0);
 }
 
-.up {
+.down {
     position: relative;
-    top: -15px;
+    top: 40px;
+}
+
+strong {
+    position: relative;
+    top 30px;
 }
