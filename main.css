@@ -53,7 +53,6 @@ a:hover {
     left: 1000px;
     top: 200px;
     border-style: solid;
-    border-width: 3px;
-    border-color: black;
-    margin: -5px;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
 }
