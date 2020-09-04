@@ -19,7 +19,6 @@
     font-size: 25px;
 }
 
-
 .active {
     background-color: rgb(158, 42, 0);
 }
@@ -47,4 +46,9 @@ a {
 
 a:hover {
     background-color: rgb(158, 42, 0);
+}
+
+.pic {
+    position: relative;
+    left: 400px;
 }
