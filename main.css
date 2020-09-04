@@ -5,18 +5,18 @@
 
 .title {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .header {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
+    font-size: 35px;
     margin: -6px 0px 0px 0px;
 }
 
 .par {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 15px;
+    font-family: monospace;
+    font-size: 25px;
 }
 
 
