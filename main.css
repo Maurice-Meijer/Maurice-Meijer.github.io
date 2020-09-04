@@ -18,3 +18,8 @@
     border-spacing: 30px;
     font-family: 'monospace';
 }
+
+.white {
+    background-color: whitesmoke;
+    padding: 10px;
+}
