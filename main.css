@@ -33,7 +33,6 @@ ul.bar {
     overflow: hidden;
     background-color: orangered;
     border-bottom-width: 100%;
-    border-bottom: 1px solid black;
     box-shadow: 5px 0px 20px 0px black;
 }
 
