@@ -32,6 +32,9 @@ ul.bar {
     padding: 0px;
     overflow: hidden;
     background-color: orangered;
+    border-bottom-width: 100%;
+    border-bottom-color: white;
+    border-bottom: 1px;
 }
 
 li.button {
