@@ -68,7 +68,7 @@ a:hover {
 }
 
 strong {
-    position: relative;
+    position: fixed;
     top: 30px;
 }
 
