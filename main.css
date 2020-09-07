@@ -72,3 +72,11 @@ table, th, td {
     border-collapse: collapse;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+th {
+    background-color: orangered
+}
+
+td {
+    background-color: palegoldenrod;
+}
