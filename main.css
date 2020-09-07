@@ -49,6 +49,7 @@ ul.bar {
 li.button {
     float: left;
     border-right: 1px solid white;
+    transform: skewx(30deg);
 }
 
 a {
