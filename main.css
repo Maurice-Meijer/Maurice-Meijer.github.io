@@ -70,4 +70,5 @@ strong {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
