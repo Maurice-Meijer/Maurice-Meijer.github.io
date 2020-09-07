@@ -3,6 +3,16 @@
     font-size: 20px;
 }
 
+.down {
+    position: relative;
+    top: 30px;
+}
+
+strong {
+    position: relative;
+    top: 30px;
+}
+
 .title {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 50px;
@@ -60,16 +70,6 @@ a:hover {
     border-style: solid;
     border-width: 1px;
     border-color: rgb(0, 0, 0);
-}
-
-.down {
-    position: relative;
-    top: 30px;
-}
-
-strong {
-    position: relative;
-    top: 30px;
 }
 
 table, th, td {
