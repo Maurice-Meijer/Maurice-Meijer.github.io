@@ -34,6 +34,7 @@ ul.bar {
     background-color: orangered;
     border-bottom-width: 100%;
     border-bottom: 1px solid black;
+    box-shadow: 5px 0px 10px 0px black;
 }
 
 li.button {
