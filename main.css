@@ -104,13 +104,14 @@ td {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
     grid-template-rows: 50px auto auto auto;
 }
 
 .header1 {
     grid-column: 1/6;
     background-color: orangered;
+    padding: 20px;
 }
 
 .navbar1 {
