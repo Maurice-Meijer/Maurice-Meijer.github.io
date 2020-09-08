@@ -107,7 +107,7 @@ td {
 .grid-container {
     display: grid;
     grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
-    grid-template-rows: 75px;
+    grid-template-rows: 80px;
     background-color: orangered;
     margin: -8px;
     grid-gap: 25px;
@@ -116,9 +116,9 @@ td {
 .navbar1 {
     grid-column: 1/2;
     grid-row: 1/2;
-    background-color: orangered;
+    background-color: rgb(255, 176, 85);
     position: center;
-    padding: 5px;
+    padding: 8px;
 }
 
 .navbar2 {
