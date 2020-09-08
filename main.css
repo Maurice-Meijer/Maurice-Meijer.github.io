@@ -134,3 +134,19 @@ td {
     padding: 10px;
 }
 
+.navbar3 {
+    grid-column: 3/4;
+    grid-row: 1/2;
+    background-color: orangered;
+    position: center;
+    padding: 10px;
+}
+
+.navbar4 {
+    grid-column: 4/5;
+    grid-row: 1/2;
+    background-color: orangered;
+    position: center;
+    padding: 10px;
+}
+
