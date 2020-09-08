@@ -40,7 +40,7 @@ ul.bar {
     top: 0;
     width: 100%;
     margin: -8px;
-    padding: 0px;
+    padding: 5px;
     overflow: hidden;
     background-color: orangered;
     border-bottom-width: 100%;
@@ -105,6 +105,12 @@ td {
 body.head {
     background-color: orangered;
 }
+
+
+
+
+
+
 
 /* Grid starts here */
 
