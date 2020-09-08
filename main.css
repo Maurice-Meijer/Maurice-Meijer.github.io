@@ -107,8 +107,7 @@ td {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 'auto auto auto auto auto auto auto';
-    grid-template-rows: '200px';
+    grid-template-columns: 'auto auto auto auto auto auto auto' 'back . . back . . back';
     grid-template-areas: 
     'nav1 nav2 nav3 nav4 . . .';
     margin: -8px;
