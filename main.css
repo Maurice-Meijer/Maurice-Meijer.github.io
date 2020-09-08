@@ -38,9 +38,10 @@ ul.bar {
     list-style-type: none;
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
     margin: -8px;
-    padding: 5px;
+    padding: 10px;
     overflow: hidden;
     background-color: orangered;
     border-bottom-width: 100%;
