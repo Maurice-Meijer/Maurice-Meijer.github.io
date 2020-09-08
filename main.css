@@ -105,10 +105,10 @@ td {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    grid-template-rows: 50px auto auto auto;
+    grid-template-rows: 75px auto auto auto;
 }
 
-.header {
+.header1 {
     grid-column: 1/6;
     background-color: black;
 }
