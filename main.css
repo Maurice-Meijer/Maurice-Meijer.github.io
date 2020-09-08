@@ -1,6 +1,6 @@
 .font {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
+    font-size: 35px;
 }
 
 .down {
@@ -41,7 +41,6 @@ ul.bar {
     left: 0;
     width: 100%;
     margin: -8px;
-    padding: 10px;
     overflow: hidden;
     background-color: orangered;
     border-bottom-width: 100%;
