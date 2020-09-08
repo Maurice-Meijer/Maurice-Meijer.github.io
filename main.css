@@ -111,11 +111,11 @@ td {
 .header1 {
     grid-column: 1/6;
     background-color: orangered;
-    padding: 20px;
+    padding: -8px;
 }
 
 .navbar1 {
     grid-column: 1/2;
-    
+    padding: -8px;
 }
 
