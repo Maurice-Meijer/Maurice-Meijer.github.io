@@ -110,8 +110,19 @@ body.head {
 
 .grid-container {
     display: grid;
+    grid-template-rows: 200px;
     grid-template-areas: 
     'nav1 nav2 nav3 nav4 . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
+    '. . . . . . .'
     '. . . . . . .';
     margin: -8px;
     grid-gap: 15px;
