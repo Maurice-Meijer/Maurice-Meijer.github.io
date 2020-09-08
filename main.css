@@ -66,6 +66,7 @@ a.link {
     text-decoration: none;
     padding: 20px;
     background-color: orangered;
+    width: 1fr;
 }
 
 a:hover {
