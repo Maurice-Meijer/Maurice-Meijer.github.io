@@ -112,14 +112,15 @@ td {
 
 .navbar1 {
     grid-column: 1/2;
+    grid-row: 1/2;
     background-color: orangered;
-    
+    position: center;
 }
 
 .navbar2 {
     grid-column: 2/3;
     grid-row: 1/2;
     background-color: orangered;
-    margin: -9px;
+    position: center;
 }
 
