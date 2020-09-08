@@ -91,7 +91,7 @@ a:hover {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-left: 10px;
@@ -104,7 +104,7 @@ th {
 }
 
 td {
-    background-color: rgb(255, 176, 85);
+    background-color: rgb(255, 137, 59);
 }
 
 
