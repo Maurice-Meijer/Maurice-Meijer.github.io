@@ -106,7 +106,7 @@ td {
     display: grid;
     grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
     grid-template-rows: auto;
-    grid-gap: 30px;
+    
 }
 
 .header1 {
