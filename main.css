@@ -112,6 +112,7 @@ td {
     background-color: orangered;
     margin: -8px;
     grid-gap: 25px;
+    box-shadow: 5px 0px 20px 0px black;
 }
 
 .navbar-font {
