@@ -108,8 +108,8 @@ td {
 .grid-container {
     display: grid;
     grid-template-areas: 
-    'nav1 nav2 nav3 nav4 head head head'
-    'back main main main main main back';
+    'nav1 nav2 nav3 nav4 head head head';
+
     
     background-color: orangered;
     margin: -8px;
