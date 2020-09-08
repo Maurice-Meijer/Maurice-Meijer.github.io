@@ -59,10 +59,6 @@ a {
     padding: 20px;
 }
 
-a:hover {
-    background-color: rgb(158, 42, 0);
-}
-
 a.link {
     display: block;
     color: black;
@@ -70,6 +66,10 @@ a.link {
     text-decoration: none;
     padding: 20px;
     background-color: orangered;
+}
+
+a:hover {
+    background-color: rgb(158, 42, 0);
 }
 
 .pic {
