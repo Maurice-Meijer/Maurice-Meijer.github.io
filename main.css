@@ -114,6 +114,10 @@ td {
     box-shadow: 5px 0px 20px 0px black;
 }
 
+.barcolor {
+    background-color: orangered;
+}
+
 .navbar-font {
     font-size: 30px; 
 }
