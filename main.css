@@ -105,11 +105,16 @@ td {
 .grid-container {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    grid-template-rows: 75px auto auto auto;
+    grid-template-rows: 80px auto auto auto;
 }
 
 .header1 {
     grid-column: 1/6;
-    background-color: black;
+    background-color: orangered;
+}
+
+.navbar1 {
+    grid-column: 1;
+    
 }
 
