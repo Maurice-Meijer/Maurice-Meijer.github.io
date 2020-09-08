@@ -108,8 +108,7 @@ td {
 .grid-container {
     display: grid;
     grid-template-areas: 
-    'nav1 nav2 nav3 nav4 . . .'
-    'back . . . . . back';
+    'nav1 nav2 nav3 nav4 . . .';
     margin: -8px;
     grid-gap: 25px;
     box-shadow: 5px 0px 20px 0px black;
