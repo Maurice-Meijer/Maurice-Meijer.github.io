@@ -109,7 +109,7 @@ td {
     grid-template-rows: 70px;
     background-color: orangered;
     margin: -8px;
-    grid-gap: 10px;
+    grid-gap: 25px;
 }
 
 .navbar1 {
