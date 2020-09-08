@@ -49,6 +49,7 @@ ul.bar {
 
 li.button {
     float: left;
+    margin: 10px;
 }
 
 a {
