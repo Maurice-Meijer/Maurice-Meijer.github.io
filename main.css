@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(255, 176, 85);
+}
+
 .font {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
@@ -105,9 +109,7 @@ td {
     background-color: rgb(255, 176, 85);
 }
 
-body.head {
-    background-color: orangered;
-}
+
 
 
 
