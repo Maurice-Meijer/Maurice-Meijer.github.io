@@ -111,7 +111,7 @@ td {
 .header1 {
     grid-column: 1/6;
     background-color: orangered;
-    top: -8px;
+    margin: -9px;
 }
 
 .navbar1 {
