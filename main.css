@@ -107,7 +107,7 @@ td {
 .grid-container {
     display: grid;
     grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
-    grid-template-rows: 70px;
+    grid-template-rows: 75px;
     background-color: orangered;
     margin: -8px;
     grid-gap: 25px;
