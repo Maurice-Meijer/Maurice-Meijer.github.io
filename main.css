@@ -71,6 +71,7 @@ a.link {
 
 a:hover {
     background-color: rgb(158, 42, 0);
+    box-shadow: 5px 0px 20px 0px black;
 }
 
 .pic {
