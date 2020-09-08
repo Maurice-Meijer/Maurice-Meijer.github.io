@@ -107,7 +107,10 @@ td {
 
 .grid-container {
     display: grid;
-    grid-template-areas: 'nav1 nav2 nav3 nav4 head head head';
+    grid-template-areas: 
+    'nav1 nav2 nav3 nav4 head head head'
+    'back main main main main main back';
+    
     background-color: orangered;
     margin: -8px;
     grid-gap: 25px;
@@ -143,6 +146,12 @@ td {
     grid-area:'nav4';
     background-color: orangered;
     position: center;
+    padding: 10px;
+}
+
+.background {
+    grid-area:'back';
+    background-color: rgb(255, 176, 85);
     padding: 10px;
 }
 
