@@ -98,3 +98,18 @@ th {
 td {
     background-color: rgb(255, 176, 85);
 }
+
+
+/* Grid starts here */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: 50px auto auto auto;
+}
+
+.header {
+    grid-column: 1/6;
+    background-color: black;
+}
+
