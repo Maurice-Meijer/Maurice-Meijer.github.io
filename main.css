@@ -149,7 +149,7 @@ body.head {
 }
 
 .background {
-    grid-column: 1/6;
+    grid-column: 1/1;
     grid-row: 1/5;
     background-color: rgb(255, 176, 85);
     padding: 10px;
