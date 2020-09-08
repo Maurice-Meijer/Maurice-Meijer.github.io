@@ -51,7 +51,7 @@ li.button {
     border-right: 1px solid white;
 }
 
-nav {
+a {
     display: block;
     color: black;
     text-align: left;
@@ -59,7 +59,7 @@ nav {
     padding: 20px;
 }
 
-a.nav:hover {
+a:hover {
     background-color: rgb(158, 42, 0);
 }
 
