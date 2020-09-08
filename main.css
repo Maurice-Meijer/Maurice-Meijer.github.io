@@ -104,7 +104,7 @@ td {
 
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    grid-template-columns: 200px 200px 200px 200px 200px;
     grid-template-rows: 80px auto auto auto;
 }
 
