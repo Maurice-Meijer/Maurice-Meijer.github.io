@@ -114,6 +114,10 @@ td {
     grid-gap: 25px;
 }
 
+.navbar-font {
+    font-size: 30px; 
+}
+
 .navbar1 {
     grid-column: 1/2;
     grid-row: 1/2;
