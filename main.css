@@ -63,6 +63,15 @@ a:hover {
     background-color: rgb(158, 42, 0);
 }
 
+a.link {
+    display: block;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    background-color: orangered;
+}
+
 .pic {
     position: absolute;
     left: 1000px;
