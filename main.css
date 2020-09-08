@@ -118,7 +118,7 @@ td {
     grid-row: 1/2;
     background-color: orangered;
     position: center;
-    border-right: 10px white;
+    padding: 5px;
 }
 
 .navbar2 {
