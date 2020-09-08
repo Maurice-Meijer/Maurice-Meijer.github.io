@@ -109,7 +109,7 @@ td {
 }
 
 .header1 {
-    grid-column: 1/6;
+    grid-column: 1/10;
     background-color: orangered;
     margin: -9px;
 }
