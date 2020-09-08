@@ -151,3 +151,16 @@ td {
     padding: 10px;
 }
 
+.grid-container-main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
+    grid-template-rows: 80px;
+    margin: -8px;
+}
+
+.background {
+    grid-column: 1/2;
+    grid-row: 1/20;
+    background-color: rgb(255, 176, 85);
+}
+
