@@ -107,8 +107,7 @@ td {
 
 .grid-container {
     display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
-    grid-template-rows: 80px;
+    grid-template-areas: 'nav1 nav2 nav3 nav4 head head head';
     background-color: orangered;
     margin: -8px;
     grid-gap: 25px;
@@ -120,47 +119,30 @@ td {
 }
 
 .navbar1 {
-    grid-column: 1/2;
-    grid-row: 1/2;
+    grid-area:'nav1';
     background-color: orangered;
     position: center;
     padding: 10px;
 }
 
 .navbar2 {
-    grid-column: 2/3;
-    grid-row: 1/2;
+    grid-area:'nav2';
     background-color: orangered;
     position: center;
     padding: 10px;
 }
 
 .navbar3 {
-    grid-column: 3/4;
-    grid-row: 1/2;
+    grid-area:'nav3';
     background-color: orangered;
     position: center;
     padding: 10px;
 }
 
 .navbar4 {
-    grid-column: 4/5;
-    grid-row: 1/2;
+    grid-area:'nav4';
     background-color: orangered;
     position: center;
     padding: 10px;
-}
-
-.grid-container-main {
-    display: grid;
-    grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px 200px;
-    grid-template-rows: 80px;
-    margin: -8px;
-}
-
-.background {
-    grid-column: 1/2;
-    grid-row: 1/20;
-    background-color: rgb(255, 176, 85);
 }
 
