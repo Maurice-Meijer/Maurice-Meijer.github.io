@@ -57,6 +57,13 @@ ul.foot {
     box-shadow: 5px 0px 20px 0px black;
 }
 
+li.buttonfoot {
+    float: left;
+    margin-top: 10px;
+    margin-left: 25px;
+    padding: 10px;
+}
+
 ul.bar {
     list-style-type: none;
     position: fixed;
