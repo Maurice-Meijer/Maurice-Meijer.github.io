@@ -98,9 +98,10 @@ a.link {
     color: black;
     text-align: center;
     text-decoration: none;
-    padding: 15px;
+    padding: 10px;
     background-color: orangered;
     width: 200px;
+    height: 60px;
 }
 
 a.picture {
