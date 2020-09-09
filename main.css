@@ -33,6 +33,12 @@ strong {
     margin: -6px 0px 0px 0px;
 }
 
+.headersmall {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin: -6px 0px 0px 0px;
+}
+
 .par {
     font-family: monospace;
     font-size: 25px;
