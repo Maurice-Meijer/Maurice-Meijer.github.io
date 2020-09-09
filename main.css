@@ -7,6 +7,11 @@ body {
     font-size: 35px;
 }
 
+.fontsmall {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
 .down {
     position: relative;
     top: 30px;
