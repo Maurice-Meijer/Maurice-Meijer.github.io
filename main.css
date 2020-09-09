@@ -90,10 +90,17 @@ a:hover {
     box-shadow: 5px 0px 20px 0px black;
 }
 
-.pic {
+.picjvl {
     position: absolute;
     left: 1000px;
     top: 200px;
+    box-shadow: 5px 0px 20px 0px black;
+}
+
+.picrl {
+    position: absolute;
+    left: 1000px;
+    top: 175px;
     box-shadow: 5px 0px 20px 0px black;
 }
 
