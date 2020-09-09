@@ -110,6 +110,15 @@ a.link {
     width: 200px;
 }
 
+a.faq {
+    display: none;
+    color: black;
+    text-align: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
 a.picture {
     display: block;
     margin: -8px;
