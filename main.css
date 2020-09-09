@@ -78,6 +78,13 @@ a.link {
     width: 200px;
 }
 
+a.pic {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    background-color: orangered;
+}
+
 a:hover {
     background-color: rgb(255, 176, 85);
     box-shadow: 5px 0px 20px 0px black;
