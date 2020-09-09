@@ -101,7 +101,6 @@ a:hover {
     position: absolute;
     left: 1000px;
     top: 175px;
-    background-attachment: fixed;
     box-shadow: 5px 0px 20px 0px black;
 }
 
