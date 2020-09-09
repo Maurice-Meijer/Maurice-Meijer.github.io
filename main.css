@@ -80,6 +80,8 @@ a.link {
 
 a.picture {
     display: block;
+    margin: -8px;
+    padding: -10px;
     background-color: orangered;
 }
 
