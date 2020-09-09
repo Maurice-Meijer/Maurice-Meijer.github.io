@@ -111,7 +111,7 @@ a.link {
 }
 
 a.faq {
-    
+    display: inline;
     color: black;
     text-align: none;
     text-decoration: none;
