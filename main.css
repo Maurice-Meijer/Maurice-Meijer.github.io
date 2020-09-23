@@ -44,6 +44,11 @@ strong {
     font-size: 25px;
 }
 
+.source {
+    font-family: monospace;
+    font-size: 10px;
+}
+
 .active {
     background-color:  rgb(255, 176, 85);
     box-shadow: 5px 0px 20px 0px black;
