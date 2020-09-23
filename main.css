@@ -47,6 +47,7 @@ strong {
 .source {
     font-family: monospace;
     font-size: 10px;
+    padding: -5px;
 }
 
 .active {
